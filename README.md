@@ -10,5 +10,5 @@ A sample app to show kids how to make a Raspberry PI display a counter when a pu
 $ git clone https://github.com/IceXPR/lcd-touch-counter.git
 $ cd lcd-touch-counter
 $ pip3 install -r requirements.txt
-$ python3 app.py
+$ python3 mainApp.py
 ```
